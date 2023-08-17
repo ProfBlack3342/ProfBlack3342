@@ -48,7 +48,7 @@ Também possuo conhecimento em edição de imagens e modelagem/animação 3D.
 <div id="stats" align="left>
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ProfBlack3342&theme=github-dark&border_radius=5&locale=pt_BR&card_width=600"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfBlack3342&layout=compact&theme=vision-friendly-dark"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfBlack3342&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 <div id="end">
