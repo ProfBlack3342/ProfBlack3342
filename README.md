@@ -21,7 +21,7 @@
 ---
 ### :technologist: Sobre mim :
 Sou um desenvolvedor amador de aplicações, com grande interesse em trabalhar na área de jogos digitais.
-Estudante do Senac no curso Técnico de Desenvolvimento de Sistemas.
+Atualmente estou fazendo o curso de Técnico de Desenvolvimento de Sistemas, no Senac Tech de Porto Alegre.
 Também possuo conhecimento em edição de imagens e modelagem/animação 3D.
 
 - :telescope: Em busca de um emprego na área de programação de aplicativos e/ou back-end.
