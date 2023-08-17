@@ -47,13 +47,14 @@ Também possuo conhecimento em edição de imagens e modelagem/animação 3D.
 ---
 <div id="stats" align="left>
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lmaWYxeXE2YjNyZjNzMWFtbG9hd2ViZzR5ZjRpMmgxamdxdWw3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l19ipdY2pjK3d8Omtz/giphy.gif" width="400" height="600" align="right"/>&nbsp;
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ProfBlack3342&theme=github-dark&border_radius=5&locale=pt_BR&card_width=600"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfBlack3342&layout=compact&theme=vision-friendly-dark"/>&nbsp;
-  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179760797&cover_image=true&theme=novatorem&show_offline=false&background_color=574000&interchange=true&bar_color=ffffff&bar_color_cover=false"/>&nbsp;
 </div>
 
-<div id="views">
-  <img src="https://komarev.com/ghpvc/?username=ProfBlack3342&style=flat-square&color=blue" alt="viewcount" align="left"/>
+<div id="end">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179760797&cover_image=true&theme=novatorem&show_offline=false&background_color=574000&interchange=true&bar_color=ffffff&bar_color_cover=false" align="left"/>&nbsp;
+
+  ---
+  
+  <img src="https://komarev.com/ghpvc/?username=ProfBlack3342&style=flat-square&color=blue" alt="viewcount" align="right"/>&nbsp;
 </div>
