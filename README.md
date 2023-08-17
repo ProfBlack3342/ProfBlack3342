@@ -20,7 +20,8 @@
  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Olá, meu nome é Eduardo!
 ---
 ### :technologist: Sobre mim :
-Sou desenvolvedor de aplicações, com interesse na área de jogos e estudante do Senac no curso Técnico de Desenvolvimento de Sistemas.
+Sou um desenvolvedor amador de aplicações, com grande interesse em trabalhar na área de jogos digitais.
+Estudante do Senac no curso Técnico de Desenvolvimento de Sistemas.
 Também possuo conhecimento em edição de imagens e modelagem/animação 3D.
 
 - :telescope: Em busca de um emprego na área de programação de aplicativos e/ou back-end.
