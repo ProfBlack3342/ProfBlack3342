@@ -46,10 +46,10 @@ Também possuo conhecimento em edição de imagens e modelagem/animação 3D.
 
 ---
 
-<div id="end">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179760797&cover_image=true&theme=novatorem&show_offline=false&background_color=574000&interchange=true&bar_color=ffffff&bar_color_cover=false" align="left"/>&nbsp;
-
-  ---
+<div id="spotify">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179760797&cover_image=true&theme=novatorem&show_offline=false&background_color=574000&interchange=true&bar_color=ffffff&bar_color_cover=false" align="left"/>
+  </div>
   
-  <img src="https://komarev.com/ghpvc/?username=ProfBlack3342&style=flat-square&color=blue" alt="viewcount" align="right"/>&nbsp;
+  <div id="end">
+  <img src="https://komarev.com/ghpvc/?username=ProfBlack3342&style=flat-square&color=blue" alt="viewcount" align="right"/>
 </div>
