@@ -26,7 +26,7 @@ Também possuo conhecimento em edição de imagens e modelagem/animação 3D.
 
 - :telescope: Em busca de um emprego na área de programação de aplicativos e/ou back-end.
 - :seedling: Fluência em inglês + experiência com trabalhos em equipe e metodologias ágeis.
-- :zap: Programando um jogo de ação em terceira pessoa na Unity durante meu tempo livre.
+- :zap: Criando e programando um jogo de ação em terceira pessoa durante meu tempo livre.
 ---
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Linguagens e Aplicações:
 <div id="apps" align="left">
